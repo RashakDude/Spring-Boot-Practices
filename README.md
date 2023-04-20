@@ -86,7 +86,7 @@
 - [ ] Use a service mesh
 > If you are building a microservices-based application, consider using a service mesh like [Istio](https://istio.io/) or [Linkerd](https://linkerd.io/). A service mesh can improve the security, performance, and observability of your application by providing features like traffic management, monitoring, and observability.
 - [ ] Use a deployment pipeline
-A deployment pipeline is a set of automated processes that you can use to build, test, and deploy your application. By using a deployment pipeline, you can deploy your application more frequently and with fewer errors. You can also implement Deployment approach like [Blue-Green Deployments](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html).
+> A deployment pipeline is a set of automated processes that you can use to build, test, and deploy your application. By using a deployment pipeline, you can deploy your application more frequently and with fewer errors. You can also implement Deployment approach like [Blue-Green Deployments](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html).
 - [ ] Use Swagger for Api Documentation
 > [Swagger](https://swagger.io/) is a tool that can be used to generate API documentation for a Spring Boot application.
 - [ ] Using Actuator
